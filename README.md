@@ -19,6 +19,12 @@ Muchas decisiones financieras cotidianas se toman con poca información clara. E
 - Recomendaciones simples en español.
 - Sección de consejos financieros básicos.
 
+## Screenshots
+
+![Home Screen](docs/screenshot-home.png)
+
+![Example Budget Analysis](docs/screenshot-example.png)
+
 ## Instalación
 
 Requisitos:
